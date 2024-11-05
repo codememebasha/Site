@@ -1,0 +1,273 @@
+@media (max-width: 1700px) {
+.adoperations_img_list.adoperations_img_list_two img{height:509px;}
+}
+@media (max-width: 1500px) {
+.adoperations_img_list.adoperations_img_list_two img{height:435px;}
+}
+@media (max-width: 1400px) {
+.currentopenings_list ul li .applynow_popupinfo .applynow_form{padding:30px;top:90px;-ms-transform:translate(-50%, 0);-o-transform:translate(-50%, 0);-moz-transform:translate(-50%, 0);-webkit-transform:translate(-50%, 0);transform:translate(-50%, 0);}
+#cookie-law-info-bar{max-width:900px;}
+}
+@media (max-width: 1350px) {
+.section_title_txt{top:-20px;}
+}
+@media (max-width: 1300px) {
+.section_title_txt{top:-25px;}
+}
+@media (min-width: 1151px) and (max-width: 1250px) {
+.section_title_txt{top:-1.4vw;left:-30px;}
+}
+@media (min-width: 1101px) and (max-width: 1150px) {
+.section_title_txt{top:-1.2vw;left:-15px;}
+}
+@media (max-width: 1100px) {
+#main-header,
+#main-header.et-fixed-header{background:#058da8;padding:10px 0;}
+.et_header_style_left .logo_container{width:250px;height:auto;}
+.et_header_style_left #logo,
+.et_header_style_split #logo{max-width:221px;max-height:inherit;}
+.desk_nav_info{display:none;}
+.nav_info{display:block;}
+.nav_info,
+#main-header.et-fixed-header .nav_info{padding:4.5px 0;}
+.nav_icon_list .nav_icon.nav_icon_close:before{content:"M";}
+.nav_icon_list .nav_list{width:100%;background:#058da8;position:fixed;top:55px;right:0;height:100%;left:0;}
+.nav_icon_list .nav_list:after{display:none;}
+.nav_icon_list .nav_list ul li{font-size:22px;color:#fff;}
+.nav_icon_list .nav_list ul li a{color:#fff;padding:10px 0;}
+.nav_icon_list .nav_list ul li:hover>a,
+.nav_icon_list .nav_list ul li.current_page_item>a{color:#39d4b4;}
+.nav_icon_list .nav_list ul li ul{border-top:1px dotted #fff;border-bottom:1px dotted #fff;}
+.container,
+.et_pb_fullwidth_header .et_pb_fullwidth_header_container,
+.et_pb_row{padding-left:40px !important;padding-right:40px !important;}
+.header_info{padding-top:120px !important;padding-bottom:120px !important;}
+.section_title_txt{top:-15px;left:-15px;}
+.services_submenulist .fullwidth-menu-nav{padding-left:40px !important;padding-right:40px !important;}
+.services_submenulist .fullwidth-menu li{font-size:14px;line-height:26px;color:#ffffff;padding-right:30px;}
+.adoperations_img_list .et_pb_row{padding:0 !important;}
+.adoperations_img_list.adoperations_img_list_two img{height:310px;}
+#main-footer{display:none;}
+#footer-bottom,
+.page-id-263 #footer-bottom{display:block;background:#414042;padding:70px 0;}
+.quicksearch_info{margin:20px 0;}
+.whoarewe_txt h5{margin:10px 0;}
+.copyright_txt{padding:0;}
+.copyright_txt br{display:block;}
+#cookie-law-info-bar{max-width:800px;margin:0;right:auto;}
+.header_info .header-content-container{min-height:inherit;}
+.header_info .header-content-container .header-content{position:relative;top:auto;left:auto;-ms-transform:none;-o-transform:none;-moz-transform:none;-webkit-transform:none;transform:none;}
+}
+@media (max-width: 1024px) {
+.nav_icon_list .nav_list ul{padding:15px 55px;}
+}
+@media (max-width: 980px) {
+.nav_icon_list .nav_list ul{padding:15px 30px;}
+.header_info h1.et_pb_module_header{font-size:56px;}
+.et_pb_section{padding:50px 0;}
+.section_title_info .et_pb_column{margin-bottom:10px;}
+.section_title_txt{top:auto;left:auto;transform:inherit;position:relative;}
+.section_title_txt h4{transform:inherit;}
+.section_title_txt h4:after{display:none;}
+.aglobalservicesfirm_info,
+.someoftheways_heading,
+.someoftheways_list,
+.gettoknowus_info,
+.howwework_bottom_img,
+.professionalism_txt,
+.trust_txt,
+.leadership_info,
+.adoperations_img_list,
+.thebestworkplace_info{padding-top:0;padding-bottom:0;}
+.aglobalservicesfirm_info .et_pb_column,
+.someoftheways_heading .et_pb_column,
+.whoarewe_txt .et_pb_column{margin-bottom:0;}
+.aglobalservicesfirm_info h5,
+.gettoknowus_info h5,
+.leadership_info h5,
+.ourvalues_info .professionalism_txt h5,
+.systemsmigrationsupport_info h5{margin:0 0 25px 0;}
+.aglobalservicesfirm_info h5 br,
+.gettoknowus_info h5 br,
+.systemsmigrationsupport_info h5 br{display:none;}
+.trust_txt h5{margin:50px 0 60px 0;}
+.ourexpertise_info h5{margin:0 0 20px 0;}
+.someoftheways_heading{padding-bottom:20px;}
+.gettoknowus_info .et_pb_column,
+.leadership_info .et_pb_column{margin-bottom:10px;}
+.trust_txt .et_pb_column_1_3{padding:20px 0 20px 30px;margin:0;}
+.leadership_list_info .et_pb_column .et_pb_blurb{float:left;width:50%;margin:0;padding:0 15px;}
+.leadership_list .et_pb_main_blurb_image{margin:0;}
+.whoweare_list .et_pb_blurb_content{max-width:100%;}
+.services_submenulist{display:none;}
+.thebestworkplace_txt h5 br{display:none;}
+.tab_section_info .et_pb_column_1_3,
+.tab_section_info .et_pb_row .et_pb_column_1_3{width:29.666% !important;margin-right:5.5%;}
+.tab_section_info .et_pb_column_2_3,
+.tab_section_info .et_pb_row .et_pb_column_2_3{width:64.833% !important;}
+.whoweare_list .et_pb_column_1_3,
+.whoweare_list .et_pb_row .et_pb_column_1_3,
+.someoftheways_list .et_pb_column_1_3,
+.someoftheways_list .et_pb_row .et_pb_column_1_3,
+.contactus_address_info .et_pb_column_1_3,
+.contactus_address_info .et_pb_row .et_pb_column_1_3{width:29.666% !important;margin-right:5.5%;}
+.adoperations_img_list .et_pb_row{margin-left:-7.5px !important;margin-right:-7.5px !important;}
+.adoperations_img_list .et_pb_row .et_pb_column_1_3{width:33.33% !important;margin-bottom:0;padding-left:7.5px !important;padding-right:7.5px !important;}
+.adoperations_img_list.adoperations_img_list_two .et_pb_row .et_pb_column_2_3{width:67.3% !important;margin-bottom:0;padding-left:7.5px !important;padding-right:7.5px !important;}
+.adoperations_img_list.adoperations_img_list_two .et_pb_row .et_pb_column_1_3{width:32.7% !important;margin-bottom:0;padding-left:7.5px !important;padding-right:7.5px !important;}
+.adoperations_img_list.adoperations_img_list_two img{height:230px;}
+.systemsmigrationsupport_info p{padding-bottom:40px;}
+.systemsmigrationsupport_info p:last-of-type{padding-bottom:0;}
+.tab_section_info .whoarewe_txt{margin:60px 0 0 0;}
+.tab_section_info .whoarewe_txt p{padding-bottom:60px;}
+.tab_section_info .whoarewe_txt p:last-of-type{padding-bottom:0;}
+.tab_section_info .quicksearch_info{margin:70px 0;}
+.tab_section_info .quicksearch_info .searchandfilter ul{padding:70px 20px;}
+.tab_section_info .quicksearch_info .searchandfilter ul li h4{}
+.tab_section_info .currentopenings_list ul li{margin:0 0 60px 0;}
+.tab_section_info .currentopenings_list ul li:last-of-type{margin:0;}
+.announcement_banner_info .et_pb_column_3_4 p{padding-top:0;}
+#cookie-law-info-bar{max-width:550px;padding:5px;}
+.career_social_list a{margin:7.5px 0 0 5px;}
+}
+@media (min-width: 768px) {
+.nav_icon_list .nav_list ul{padding:15px 50px;}
+}
+@media (max-width: 767px) {
+#cookie-law-info-bar{max-width:100%;}
+.ready_get_started h4{font-size:24px;}
+.our_services ul li{width:100%;}
+.container,
+.et_pb_fullwidth_header .et_pb_fullwidth_header_container,
+.et_pb_row{padding-left:30px !important;padding-right:30px !important;}
+#main-header .container{padding-left:20px !important;padding-right:20px !important;}
+.header_info{padding-top:100px !important;padding-bottom:80px !important;}
+.header_info h1.et_pb_module_header{font-size:45px;}
+.aglobalservicesfirm_info h5,
+.someoftheways_heading h5,
+.gettoknowus_info h5,
+.professionalism_txt h5,
+.trust_txt h5,
+.leadership_info h5,
+.systemsmigrationsupport_info h5,
+.thebestworkplace_txt h5,
+.whoarewe_txt h5{font-size:22px;line-height:32px;}
+.aglobalservicesfirm_info p,
+.gettoknowus_info p,
+.leadership_info p,
+.systemsmigrationsupport_info p{font-size:22px;line-height:32px;}
+.trust_txt p,
+.whoarewe_txt p{font-size:18px;line-height:28px;}
+.environmentforpeople_txt p{margin:0 0 30px 0;}
+.news_list ul li h5,
+.news_inner_list h5{font-size:24px;}
+.news_list ul li p,
+.news_inner_list p{font-size:18px;line-height:28px;}
+.news_list ul li a{font-size:18px;}
+.ourexpertise_info ul li{font-size:20px;line-height:30px;}
+.currentopenings_list ul li h4{font-size:22px;}
+.currentopenings_list ul li p{font-size:18px;line-height:28px;}
+.adoperations_list,
+.ourexpertise_info{padding-top:0;padding-bottom:0;}
+.adoperations_list h6{font-size:25px;}
+.adoperations_list p{font-size:18px;line-height:28px;}
+#main-footer{display:none;}
+#footer-bottom,
+.page-id-263 #footer-bottom{padding:20px 0;}
+.footer_logo{width:auto;}
+.copyright_txt{width:100%;clear:both;float:none;padding:10px 0;}
+.career_social_list{width:auto;position:absolute;top:0;right:20px;}
+.contactus_form ul li .wpcf7-submit{margin:15px auto 0 auto;display:block;}
+.currentopenings_list ul li .applynow_popupinfo .applynow_form{padding:20px;top:60px;}
+.currentopenings_list ul li .applynow_popupinfo .applynow_form h5{margin:0 0 10px 0;font-size:24px;}
+.currentopenings_list ul li .applynow_popupinfo .applynow_form p{margin:0;}
+.currentopenings_list ul li .applynow_popupinfo .applynow_form .wpcf7-form-control-wrap{margin:0 0 8px 0;}
+.whoweare_list .et_pb_column_1_3,
+.whoweare_list .et_pb_row .et_pb_column_1_3,
+.someoftheways_list .et_pb_column_1_3,
+.someoftheways_list .et_pb_row .et_pb_column_1_3,
+.contactus_address_info .et_pb_column_1_3,
+.contactus_address_info .et_pb_row .et_pb_column_1_3{width:100% !important;margin-right:0;}
+.adoperations_img_list .et_pb_row .et_pb_column_1_3{width:100% !important;margin-bottom:0;}
+.adoperations_img_list.adoperations_img_list_two .et_pb_row .et_pb_column_2_3{width:100% !important;margin-bottom:0;}
+.adoperations_img_list.adoperations_img_list_two .et_pb_row .et_pb_column_1_3{width:100% !important;margin-bottom:0;}
+.adoperations_img_list.adoperations_img_list_two img{height:inherit;}
+.section_title_txt h4{font-size:15px;}
+.someoftheways_list h6{}
+.professionalism_txt p{}
+.trust_txt .et_pb_column_1_3{display:none;}
+.copyright_txt br{display:block;}
+.whoweare_list .et_pb_main_blurb_image{margin-bottom:10px;}
+.whoweare_list .et_pb_column_1_3 h4,
+.whoweare_list .et_pb_column_1_4 h4{margin:0;}
+.whoweare_list p{padding-bottom:10px;}
+.whoweare_list .et_pb_column_1_3{margin-bottom:50px;}
+.systemsmigrationsupport_info h5{}
+.systemsmigrationsupport_info p{font-size:20px;line-height:30px;}
+.systemsmigrationsupport_info .et_pb_row{padding-bottom:0;padding-top:0;}
+.aglobalservicesfirm_info p{}
+.thebestworkplace_txt p,
+.thebestworkplace_txt p{font-size:16px;}
+.contactus_mobile_info .contactus_mobile_txt{display:block;margin:0 0 25px 0;}
+.aglobalservicesfirm_info h5,
+.gettoknowus_info h5,
+.leadership_info h5,
+.ourvalues_info .professionalism_txt h5,
+.systemsmigrationsupport_info h5{margin:0;}
+.ourexpertise_info h5{margin:0;}
+.someoftheways_heading{padding-bottom:30px;}
+.trust_txt h5{margin:30px 0 5px 0;}
+.trust_txt.environmentforpeople_txt h5{margin:0 0 10px 0;}
+.systemsmigrationsupport_info .et_pb_row .et_pb_column:first-child{margin-bottom:10px;}
+.avinashvellore_info .thebestworkplace_txt p{margin:0;}
+.letstalk_side_btn{}
+.admonster-mar{margin:0 !important;}
+.header_info .et_pb_fullwidth_header_subhead{font-size:18px;line-height:26px;padding-top:10px;}
+.header_info .et_pb_fullwidth_header_subhead br{display:none;}
+}
+@media (max-width: 630px) {
+.adoperations_services_section{padding:0;margin-top:20px;}
+.ready_get_started .et_pb_promo_description{padding-bottom:0;}
+.header_info{padding-top:80px !important;padding-bottom:80px !important;}
+.header_info h1.et_pb_module_header{font-size:34px;}
+.aglobalservicesfirm_info p,
+.gettoknowus_info p,
+.leadership_info p,
+.systemsmigrationsupport_info p{font-size:18px;line-height:28px;}
+.currentopenings_list ul li .applynow_popupinfo .applynow_form{max-width:90%;}
+.contactus_address_info h5{margin:0 0 10px 0;font-size:24px;line-height:32px;}
+.contactus_address_info p{margin:0 0 15px 0;font-size:18px;line-height:28px;}
+.article_navigation a{font-size:14px;padding:8px 35px 8px 10px;background:url(../images/arrow_icon2.png) right 8px center no-repeat #6ac6b5 !important;}
+.article_navigation a[rel="prev"]{padding:8px 10px 8px 35px;background:url(../images/arrow_icon3.png) left 8px center no-repeat #6ac6b5 !important;}
+.copyright_txt{font-size:16px;}
+.leadership_list_info .et_pb_column{margin-bottom:10px;}
+.leadership_list_info .et_pb_column .et_pb_blurb{padding:0 5px;}
+.admonster-mar{margin:0 !important;}
+.thankyou_text{text-align:left;}
+.thankyou_text h1{font-size:28px;}
+.thankyou_text p{font-size:18px;line-height:28px;}
+.page-id-1322 .et_pb_section, .page-id-25811 .et_pb_section{padding:0;}
+.page-id-1322 .et_pb_row.et_pb_row_fullwidth, .page-id-25811 .et_pb_row.et_pb_row_fullwidth{width:100% !important;}
+.page-id-1322 .header_info h1.et_pb_module_header{font-size:30px;padding-bottom:10px;padding-top:0;}
+.page-id-1322 .aglobalservicesfirm_info{padding-top:30px;}
+.email_input{width:100%;}
+.addmonster_sbtn{margin:0 !important;width:100%;text-align:center;}
+.addmonster_sbtn .wpcf7-submit{margin:0 auto !important;display:inline-block;}
+.skip_info{text-align:center;margin:inherit;}
+}
+@media (max-width: 470px) {
+.header_info h1.et_pb_module_header {
+font-size: 32px;
+}
+.leadership_list .et_pb_blurb_container .et_pb_blurb_description p {
+font-size: 13px;
+line-height: 16px;
+}
+.article_navigation a,
+.article_navigation a[rel="prev"] {
+background: #6ac6b5 !important;
+padding: 8px 10px;
+}
+.admonster-mar{
+margin:0 !important;
+} }
